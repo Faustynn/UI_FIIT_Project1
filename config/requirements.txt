@@ -1,0 +1,6 @@
+random # for generate random values and veriables
+ast # for excute string from file
+configparser # for read properties from file
+copy # for copy objects (deepcopy in matrix)
+time # for fix time of algorithm operation
+matplotlib # for draw graphs for algorithm statistics
